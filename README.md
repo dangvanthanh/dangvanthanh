@@ -13,4 +13,4 @@ I'm a Front-End/UI Developer. I love to write about web apps. I write things dow
 - ⚡ Fun fact: ...
 -->
 
-![Dang Van Thanh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangvanthanh)
+![Dang Van Thanh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangvanthanh&theme=dracula&layout=compact)
