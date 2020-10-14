@@ -3,7 +3,7 @@
 I'm a Front-End/UI Developer. I love to write about web apps. I write things down and sharing with everyone everything I work, I learn.
 
 - 🔭 I’m currently working on [Poeta Digital](https://poetadigital.com/)
-- 🌱 I’m currently learning English, [Elm](https://elm-lang.org/) and [Elixir](https://elixir-lang.org/)
+- 🌱 I’m currently learning [English](https://en.wikipedia.org/wiki/English_language), [Elm](https://elm-lang.org/) and [Elixir](https://elixir-lang.org/)
 
 <!--
 - 👯 I’m looking to collaborate on ...
