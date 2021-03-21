@@ -2,9 +2,9 @@
 
 I'm a Front-End/UI Developer. I love to write about web apps. I write things down and sharing with everyone everything I work on, I learn.
 
-- 🏢 I’m currently working at [Poeta Digital](https://poetadigital.com/)
-- ♥️ I'm interested functional programming with [Elm](https://elm-lang.org/), and [Elixir](https://elixir-lang.org/)
-- 🌱 I’m learning programming through [English](https://en.wikipedia.org/wiki/English_language), 
+- 🏢 &nbsp;I’m currently working at [Poeta Digital](https://poetadigital.com/)
+- ♥️ &nbsp;I'm interested in functional programming with [Elm](https://elm-lang.org/), and [Elixir](https://elixir-lang.org/)
+- 🌱 &nbsp;I’m learning programming through [English](https://en.wikipedia.org/wiki/English_language)
 
 <!--
 - 👯 I’m looking to collaborate on ...
